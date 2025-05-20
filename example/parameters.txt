@@ -1,0 +1,3 @@
+sqldatabase	epitopedia.sqlite3
+pdbinput	6VXX_A
+pdbdatabase	mmcif

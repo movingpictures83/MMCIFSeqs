@@ -1,0 +1,2 @@
+Prefix plugins/MMCIFSeqs/example/
+Plugin MMCIFSeqs inputfile parameters.txt outputfile query_pdb_seq
